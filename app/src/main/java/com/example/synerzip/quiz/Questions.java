@@ -1,8 +1,10 @@
 package com.example.synerzip.quiz;
 
 /**
- * Created by synerzip on 8/7/16.
+ * Created by Snehal Tembare on 8/7/16.
+ * Copyright © 2016 Synerzip. All rights reserved
  */
+
 public class Questions {
     private String question;
     private String A;

@@ -1,8 +1,10 @@
 package com.example.synerzip.quiz;
 
 /**
- * Created by synerzip on 25/7/16.
+ * Created by Snehal Tembare on 25/7/16.
+ * Copyright © 2016 Synerzip. All rights reserved
  */
+
 public class Singleton {
 
     private static Singleton instance =null;

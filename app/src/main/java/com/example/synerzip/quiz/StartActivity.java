@@ -21,8 +21,10 @@ import com.google.android.gms.common.api.Status;
 
 
 /**
- * Created by synerzip on 6/7/16.
+ * Created by Snehal Tembare on 6/7/16.
+ * Copyright © 2016 Synerzip. All rights reserved
  */
+
 public class StartActivity extends FragmentActivity implements GoogleApiClient.OnConnectionFailedListener {
     //    private static final int sSPLASH_TIMEOUT=2000;
     private Button btnStart;
@@ -58,6 +60,8 @@ public class StartActivity extends FragmentActivity implements GoogleApiClient.O
 
         tvName = (TextView) findViewById(R.id.name);
         tvName.setText(getString(R.string.welcome_text) + " " + userName);
+        editor.putString(getString(R.string.name),userName);
+        editor.commit();
 
         btnStart = (Button) findViewById(R.id.button_start_quiz);
 

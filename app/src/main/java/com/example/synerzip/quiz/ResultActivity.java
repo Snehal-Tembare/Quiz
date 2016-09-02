@@ -19,8 +19,10 @@ import com.google.android.gms.common.api.ResultCallback;
 import com.google.android.gms.common.api.Status;
 
 /**
- * Created by synerzip on 26/7/16.
+ * Created by Snehal Tembare on 26/7/16.
+ * Copyright © 2016 Synerzip. All rights reserved
  */
+
 public class ResultActivity extends FragmentActivity implements GoogleApiClient.OnConnectionFailedListener {
 
     private TextView tvUserName;

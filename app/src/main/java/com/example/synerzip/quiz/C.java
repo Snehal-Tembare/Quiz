@@ -3,8 +3,10 @@ package com.example.synerzip.quiz;
 import java.util.List;
 
 /**
- * Created by synerzip on 8/7/16.
+ * Created by Snehal Tembare on 8/7/16.
+ * Copyright © 2016 Synerzip. All rights reserved
  */
+
 public class C {
     private List<Questions> questions;
 

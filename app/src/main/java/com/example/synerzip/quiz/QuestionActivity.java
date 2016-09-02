@@ -30,8 +30,10 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * Created by synerzip on 6/7/16.
+ * Created by Snehal Tembare on 6/7/16.
+ * Copyright © 2016 Synerzip. All rights reserved
  */
+
 public class QuestionActivity extends Activity implements View.OnClickListener {
     private Quiz quiz;
     private C c;

@@ -34,8 +34,10 @@ import com.google.android.gms.common.api.GoogleApiClient;
 import org.json.JSONObject;
 
 /**
- * Created by synerzip on 19/7/16.
+ * Created by Snehal Tembare on 19/7/16.
+ * Copyright © 2016 Synerzip. All rights reserved
  */
+
 public class LogInActivity extends FragmentActivity implements GoogleApiClient.OnConnectionFailedListener, View.OnClickListener {
 
     private TextView mInfo;
