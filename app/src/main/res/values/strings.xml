@@ -1,0 +1,107 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="transition">transit</string>
+    <string name="exit">Exit</string>
+    <string name="welcome_text">Welcome</string>
+
+    <!--LogInActivity Strings-->
+    <string name="signin_text">Sign In to Start the Quiz</string>
+    <string name="could_not_sign_in">Couldn\'t Sign In</string>
+
+    <string name="result">Result</string>
+    <string name="you_cannot_exit">You Can\'t exit</string>
+    <string name="login_cancelled">Login Cancelled</string>
+    <string name="login_faild">Login Failed</string>
+
+    <string name="exit_message">Do you want to exit quiz?</string>
+    <string name="submit_test_message">Do you want to Submit Test?</string>
+    <string name="exit_app_message">Do you want to quit application?</string>
+    <string name="menu_exit_app_message">Quit application...You may lose your score?</string>
+    <string name="no">No</string>
+    <string name="yes">Yes</string>
+    <string name="instructions">Tap on start to start Quiz</string>
+    <string name="quiz_instructions">To give answer Tap on option</string>
+    <string name="all_the_best">All the best...!!!</string>
+    <string name="question">Q</string>
+    <string name="time_remaining">Time Remaining:</string>
+    <string name="start">START</string>
+    <string name="skip">SKIP >></string>
+
+
+
+
+
+    <string name="quiz_over">Quiz Over!!!</string>
+    <string name="c_programming_quiz">C Programming Quiz</string>
+    <string name="java_programming_quiz">Java Programming Quiz</string>
+    <string name="submit_test">Show final Score</string>
+    <string name="facebook_app_id">136962436736956</string>
+
+    <string name="fb_login_protocol_scheme">fb136962436736956</string>
+
+    <array name="subject_names">
+        <item>C Programming Quiz</item>
+        <item>C++ Programming Quiz</item>
+        <item>Java Programming Quiz</item>
+        <item>Android Programming Quiz</item>
+        <item>JavaScript Programming Quiz</item>
+    </array>
+
+    <!--MenuActivity-->
+    <string name="test_result">Test Result</string>
+    <string name="body">Please Find Attachment for the marks of the candidates who appeared for the test.</string>
+    <string name="app_password">ihoycpypdxzoefhg</string>
+    <string name="app_mail">snehaltembare@gmail.com</string>
+    <string name="to_mail">snehal.tembare@synerzip.com</string>
+    <string name="file_path">/sdcard/QuizResult.csv</string>
+    <string name="file_name">Result.csv</string>
+    <string name="attempted_test">You have attempted this test</string>
+
+    <!--QuestionActivity-->
+    <string name="time_finished">Time finished</string>
+
+    <string name="quiz">quiz</string>
+    <string name="name">name</string>
+    <string name="email">email</string>
+    <string name="total">total</string>
+    <string name="subcount">subcount</string>
+    <string name="position">POSITION</string>
+    <string name="score">SCORE</string>
+    <string name="outof">OUTOF</string>
+    <string name="total_marks">Total Marks:</string>
+
+    <!--Mail class-->
+    <string name="host">smtp.gmail.com</string>
+    <string name="port">465</string>
+    <string name="mail_cap_html">text/html;; x-java-content-handler=com.sun.mail.handlers.text_html</string>
+    <string name="mail_cap_xml">text/xml;; x-java-content-handler=com.sun.mail.handlers.text_xml</string>
+    <string name="mail_cap_plain">text/plain;; x-java-content-handler=com.sun.mail.handlers.text_plain</string>
+    <string name="mail_cap_mixed">multipart/*;; x-java-content-handler=com.sun.mail.handlers.multipart_mixed</string>
+    <string name="mail_cap_rfc822">message/rfc822;; x-java-content-handler=com.sun.mail.handlers.message_rfc822</string>
+    <string name="smtp">smtp</string>
+
+    <string name="host_key">mail.smtp.host</string>
+    <string name="debug_key">mail.debug</string>
+    <string name="auth_key">mail.smtp.auth</string>
+    <string name="_port">mail.smtp.port</string>
+    <string name="password">mail.smtp.password</string>
+    <string name="sport">mail.smtp.socketFactory.port</string>
+
+    <string name="socket_factory_key">mail.smtp.socketFactory.class</string>
+    <string name="socket_factory_value">javax.net.ssl.SSLSocketFactory</string>
+    <string name="object_key">mail.smtp.socketFactory.fallback</string>
+    <string name="_false">false</string>
+    <string name="_true">true</string>
+    <string name="instrution_title">Instructions</string>
+    <string name="logged_in">Logged In</string>
+    <string name="menu_instruction">Note: Attempt all Quiz</string>
+    <string name="key">key</string>
+    <string name="connecting_google">Connecting Google...</string>
+    <string name="network_error_text">Network Error</string>
+    <string name="completed">You have completed Quiz</string>
+    <string name="thanks">Thanks...!!!</string>
+    <string name="network_not_available">Network not available</string>
+    <string name="please_wait">Please wait...</string>
+    <string name="network_available">Network available</string>
+
+</resources>

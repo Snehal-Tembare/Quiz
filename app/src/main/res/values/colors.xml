@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="backgroundColor">#c4cccc</color>
+    <color name="stop">#b0e0e6</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="semitransparent_white">#c51d1d</color>
+    <color name="control_background_color">#939292</color>
+    <color name="red">#ff5a5a</color>
+    <color name="green">#0ea35c</color>
+    <color name="view_color">#939292</color>
+    <!--<color name="background_color_all">#fcecc9</color>-->
+    <color name="background_color_all">#eee5de</color>
+    <color name="start_background_color">#4d4d4d</color>
+    <!--<color name="user_name_color">#151367</color>-->
+    <color name="user_name_color">#FF0E5416</color>
+    <!--#696969-->
+
+</resources>

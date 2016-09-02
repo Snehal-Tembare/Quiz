@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/background_color_all" >
+    <TextView
+        android:id="@+id/name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="@color/user_name_color"
+        android:textSize="@dimen/skip_text_size"
+        android:textStyle="italic"
+        android:layout_marginTop="@dimen/common_dimens_5"
+        android:layout_marginLeft="@dimen/common_dimens_10"
+        />
+    <TextView
+        android:id="@+id/idInstructionTitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="@dimen/common_dimens_80"
+        android:textSize="@dimen/tab_instruction_text_size"
+        android:text="@string/instrution_title"
+        android:textColor="@color/black" />
+    <TextView
+        android:id="@+id/idInstruction"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/instructions"
+        android:textColor="@color/black"
+        android:textSize="@dimen/instruction_text_size"
+        android:layout_below="@+id/idInstructionTitle"
+        android:layout_centerInParent="true"
+        android:layout_marginTop="@dimen/common_dimens_30"/>
+
+    <TextView
+        android:id="@+id/idQuizInstruction"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/quiz_instructions"
+        android:textSize="@dimen/instruction_text_size"
+        android:textColor="@color/black"
+        android:layout_below="@+id/idInstruction"
+        android:layout_centerInParent="true"
+        android:layout_marginTop="@dimen/common_dimens_30" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/all_the_best"
+        android:textSize="@dimen/instruction_text_size"
+        android:textColor="@color/black"
+        android:layout_below="@+id/idQuizInstruction"
+        android:layout_centerInParent="true"
+        android:layout_marginTop="@dimen/common_dimens_30"
+        />
+
+    <Button
+        android:id="@+id/button_start_quiz"
+        android:layout_width="@dimen/tab_exit_button_top_margin"
+        android:layout_height="@dimen/image_height_weight"
+        android:text="@string/start"
+        android:textSize="@dimen/start_text_size"
+        android:background="@drawable/circlulartextview"
+        android:textColor="@color/black"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="@dimen/start_bottom_margin" />
+
+
+</RelativeLayout>

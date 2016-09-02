@@ -1,0 +1,152 @@
+<resources>
+    <!--LogInActivity Dimens-->
+    <dimen name="signin_here_text_size">20sp</dimen>
+    <dimen name="signin_here_text_top_margin">80dp</dimen>
+    <dimen name="sign_in_top_margin">100dp</dimen>
+    <dimen name="log_in_top_margin">50dp</dimen>
+
+    <!--MenuActivity Dimens-->
+    <dimen name="user_name_text_size">22sp</dimen>
+    <dimen name="user_name_top_margin">5dp</dimen>
+    <dimen name="divider_height">1dp</dimen>
+    <dimen name="test_completed_text_size">18sp</dimen>
+    <dimen name="test_completed_top_margin">20dp</dimen>
+    <dimen name="submit_button_width">200dp</dimen>
+    <dimen name="submit_button_top_margin">100dp</dimen>
+
+    <!--ListItem-->
+    <dimen name="item_top_padding">15dp</dimen>
+    <dimen name="item_tick_top_padding">7dp</dimen>
+
+
+
+    <!--QuestionActivity Dimens-->
+    <dimen name="timer_image_bottom_margin">3dp</dimen>
+    <dimen name="time_remaining_left_margin">15dp</dimen>
+    <dimen name="options_layout_width">300dp</dimen>
+    <dimen name="option_text_size">15sp</dimen>
+    <dimen name="question_margin">5dp</dimen>
+    <dimen name="skip_bottom_padding">15dp</dimen>
+    <dimen name="question_layout_top_margin">28dp</dimen>
+
+
+
+    <!--Result Activity-->
+    <dimen name="result_user_name_text_size">25sp</dimen>
+    <dimen name="result_name_text_size">30sp</dimen>
+    <dimen name="exit_button_top_margin">50dp</dimen>
+    <dimen name="result_user_name_top_margin">80dp</dimen>
+
+
+
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="username_padding">10dp</dimen>
+    <dimen name="left_margin">80dp</dimen>
+    <dimen name="rifht_margin">80dp</dimen>
+    <dimen name="top_margin">35dp</dimen>
+    <dimen name="question_top_margin">75dp</dimen>
+    <dimen name="quiz_over_top_margin">50dp</dimen>
+
+
+    <dimen name="padding">15dp</dimen>
+    <dimen name="skip_text_size">20sp</dimen>
+    <dimen name="start_button_top_margin">400dp</dimen>
+    <dimen name="instruction_text_size">20sp</dimen>
+    <dimen name="start_text_size">20sp</dimen>
+
+    <dimen name="start_bottom_margin">120dp</dimen>
+    <dimen name="timer_top_margin">7dp</dimen>
+
+    <dimen name="time_remaining_text_size">15sp</dimen>
+    <dimen name="question_text_size">18sp</dimen>
+    <dimen name="start_btn_width">160dp</dimen>
+    <dimen name="start_btn_height">50dp</dimen>
+    <dimen name="column_width">300dp</dimen>
+    <dimen name="gridview_spacing">10dp</dimen>
+    <dimen name="layout_width">300dp</dimen>
+
+    <dimen name="view_height">1dp</dimen>
+    <dimen name="go_to_home_btn_width">150dp</dimen>
+
+    <dimen name="image_height_weight">40dp</dimen>
+
+
+    <!--Tab dimen-->
+    <!--LogIn Activity-->
+    <dimen name="tab_signin_here_text_size">30sp</dimen>
+    <dimen name="tab_signin_here_text_top_margin">100dp</dimen>
+    <dimen name="tab_sign_in_top_margin">350dp</dimen>
+    <dimen name="tab_login_btn_top_margin">100dp</dimen>
+
+    <!--Splash Activity-->
+    <dimen name="tab_instruction_name_text_size">40sp</dimen>
+    <dimen name="tab_instruction_title_top_margin">100dp</dimen>
+    <dimen name="tab_instruction_text_size">25sp</dimen>
+    <dimen name="tab_instructions_top_margin">25dp</dimen>
+    <dimen name="tab_start_text_size">22sp</dimen>
+    <dimen name="tab_start_bottom_margin">120dp</dimen>
+    <dimen name="tab_user_name_text_size">25sp</dimen>
+
+
+
+    <!--MenuActivity-->
+    <dimen name="tab_submit_button_width">220dp</dimen>
+    <dimen name="tab_image_height_weight">60dp</dimen>
+    <dimen name="tab_submit_button_top_margin">150dp</dimen>
+    <dimen name="tab_submit_button_padding">15dp</dimen>
+
+
+
+    <!--QuestionActivity-->
+    <dimen name="tab_user_name_left_margin">15dp</dimen>
+    <dimen name="tab_quiz_over_top_margin">70dp</dimen>
+    <dimen name="tab_question_top_margin">75dp</dimen>
+    <dimen name="tab_timer_top_margin">15dp</dimen>
+    <dimen name="tab_view_top_margin">70dp</dimen>
+    <dimen name="tab_time_remaining_top_margin">22dp</dimen>
+    <dimen name="tab_question_left_right_margin">5dp</dimen>
+
+    <dimen name="tab_question_text_size">25dp</dimen>
+    <dimen name="tab_option_text_size">20dp</dimen>
+
+    <!--ResultActivity-->
+    <dimen name="tab_result_total_text_size">30sp</dimen>
+    <dimen name="tab_result_name_text_size">40sp</dimen>
+    <dimen name="tab_exit_button_top_margin">100dp</dimen>
+
+
+
+    <!--ListItem-->
+    <dimen name="tick_top_margin">15dp</dimen>
+    <dimen name="tab_item_text_size">20sp</dimen>
+    <dimen name="tab_item_left_margin">35dp</dimen>
+    <dimen name="tab_item_top_padding">20dp</dimen>
+    <dimen name="tab_tick_left_margin">150dp</dimen>
+
+
+    <dimen name="tab_rifht_margin">100dp</dimen>
+    <dimen name="go_to_home_top_margin">180dp</dimen>
+    <dimen name="tab_score_text_size">30sp</dimen>
+    <dimen name="tab_score_text_view_width">250dp</dimen>
+
+
+    <dimen name="tab_option_layout_width">400dp</dimen>
+    <dimen name="tab_coloumn_width">350dp</dimen>
+
+    <dimen name="layout_bottom">20dp</dimen>
+
+    <!--Common dimens-->
+    <dimen name="common_dimens_5">5dp</dimen>
+    <dimen name="common_dimens_10">10dp</dimen>
+    <dimen name="common_dimens_15">15dp</dimen>
+    <dimen name="common_dimens_20">20dp</dimen>
+    <dimen name="common_dimens_30">30dp</dimen>
+    <dimen name="common_dimens_80">80dp</dimen>
+
+
+
+</resources>
+

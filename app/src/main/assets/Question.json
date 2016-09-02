@@ -1,0 +1,451 @@
+{
+  "C": {
+    "questions": [
+      {
+        "question": "Which of the following statements should be used to obtain a remainder after dividing 3.14 by 2.1 ?",
+        "A": "rem = 3.14 % 2.1;",
+        "B": "rem = modf(3.14, 2.1);",
+        "C": "rem = fmod(3.14, 2.1);",
+        "D": "Remainder cannot be obtain in floating point division.",
+        "answer": "rem = fmod(3.14, 2.1);"
+      },
+      {
+        "question": "What are the types of linkages?",
+        "A": "Internal and External",
+        "B": "External, Internal and None",
+        "C": "External and None",
+        "D": "Internal",
+        "answer": "External, Internal and None"
+      },
+      {
+        "question": "Which of the following special symbol allowed in a variable name?",
+        "A": "* (asterisk)",
+        "B": "| (pipeline)",
+        "C": "- (hyphen)",
+        "D": "_ (underscore)",
+        "answer": "_ (underscore)"
+      },
+      {
+        "question": "How would you round off a value from 1.66 to 2.0?",
+        "A": "ceil(1.66)",
+        "B": "floor(1.66)",
+        "C": "roundup(1.66)",
+        "D": "roundto(1.66)",
+        "answer": "ceil(1.66)"
+      },
+      {
+        "question": "By default a real number is treated as a",
+        "A": "float",
+        "B": "double",
+        "C": "long double",
+        "D": "far double",
+        "answer": "double"
+      },
+      {
+        "question": "When we mention the prototype of a function?",
+        "A": "Defining",
+        "B": "Declaring",
+        "C": " Prototyping",
+        "D": "Calling",
+        "answer": "Defining"
+      },
+      {
+        "question": "Which of the following function sets first n characters of a string to a given character?",
+        "A": "strinit()",
+        "B": "strnset()",
+        "C": "strset()",
+        "D": "strcset()",
+        "answer": "strnset()"
+      },
+      {
+        "question": "If the two strings are identical, then strcmp() function returns",
+        "A": "-1",
+        "B": "1",
+        "C": "0",
+        "D": " Yes",
+        "answer": "0"
+      },
+      {
+        "question": "Which of the following function is used to find the first occurrence of a given string in another string?",
+        "A": "strchr()",
+        "B": "strrchr()",
+        "C": "strstr()",
+        "D": "strnset()",
+        "answer": "strstr()"
+      },
+      {
+        "question": "The library function used to find the last occurrence of a character in a string is",
+        "A": "strnstr()",
+        "B": "laststr()",
+        "C": "strrchr()",
+        "D": "strstr()",
+        "answer": "strrchr()"
+      }
+    ]
+  },
+  "Java": {
+    "questions": [
+      {
+        "question": "Which one of these lists contains only Java programming language keywords?",
+        "A": "class, if, void, long, Int, continue",
+        "B": "goto, instanceof, native, finally, default, throws",
+        "C": "try, virtual, throw, final, volatile, transient",
+        "D": "strictfp, constant, super, implements, do",
+        "answer": "goto, instanceof, native, finally, default, throws"
+      },
+      {
+        "question": "Which interface does java.util.Hashtable implement?",
+        "A": "Java.util.Map",
+        "B": "Java.util.List",
+        "C": "Java.util.HashTable",
+        "D": "Java.util.Collection",
+        "answer": "Java.util.Map"
+      },
+      {
+        "question": "Which is a reserved word in the Java programming language?",
+        "A": "method",
+        "B": "native",
+        "C": "subclasses",
+        "D": "reference",
+        "answer": "native"
+      },
+      {
+        "question": "Which is a valid keyword in java?",
+        "A": "interface",
+        "B": "string",
+        "C": "float",
+        "D": "unsigned",
+        "answer": "interface"
+      },
+      {
+        "question": "Which one of the following will declare an array and initialize it with five numbers?",
+        "A": "Array a = new Array(5);",
+        "B": "int [] a = {23,22,21,20,19};",
+        "C": "int a [] = new int[5];",
+        "D": "int [5] array;",
+        "answer": "int [] a = {23,22,21,20,19};"
+      },
+      {
+        "question": "Which is the valid declarations within an interface definition?",
+        "A": "public double methoda();",
+        "B": "public final double methoda();",
+        "C": "static void methoda(double d1);",
+        "D": "protected void methoda(double d1);",
+        "answer": "public double methoda();"
+      },
+      {
+        "question": "Which one is a valid declaration of a boolean?",
+        "A": "boolean b1 = 0;",
+        "B": "boolean b2 = 'false';",
+        "C": "boolean b3 = false;",
+        "D": "boolean b4 = Boolean.false();",
+        "answer": "boolean b3 = false;"
+      },
+      {
+        "question": "Which is a valid declarations of a String?",
+        "A": "String s1 = null;",
+        "B": "String s2 = 'null';",
+        "C": "String s3 = (String) 'abc';",
+        "D": "String s4 = (String) '\ufeed';",
+        "answer": "String s1 = null;"
+      },
+      {
+        "question": "What is the numerical range of a char?",
+        "A": "-128 to 127",
+        "B": "-(215) to (215) - 1",
+        "C": "0 to 32767",
+        "D": "0 to 65535",
+        "answer": "0 to 65535"
+      },
+      {
+        "question": "Which class does not override the equals() and hashCode() methods, inheriting them directly from class Object?",
+        "A": "java.lang.String",
+        "B": "java.lang.Double",
+        "C": "java.lang.StringBuffer",
+        "D": "java.lang.Character",
+        "answer": "java.lang.StringBuffer"
+      }
+    ]
+  },
+  "Cpp": {
+    "questions": [
+      {
+        "question": " Which of the following type of class allows only one object of it to be created?",
+
+          "A": "Virtual Class",
+          "B": "Abstract Class",
+          "C": "Singleton Class",
+          "D": "Friend Class",
+        "answer": "Singleton Class"
+      },
+      {
+        "question": " Which of the following is not a type of constructor?",
+        "A": "Copy Constructor",
+        "B": "Friend constructor",
+        "C": "Default constructor",
+        "D": "Parameterized constructor",
+        "answer": "Friend constructor"
+      },
+      {
+        "question": " Which of the following statements is correct?",
+
+          "A": "Base class pointer cannot point to derived class.",
+          "B": "Derived class pointer cannot point to base class.",
+          "C": "Pointer to derived class cannot be created.",
+          "D": "Pointer to base class cannot be created.",
+        "answer": "Derived class pointer cannot point to base class."
+      },
+      {
+        "question": "Which of the following is not the member of class?",
+
+          "A": "Static function",
+          "B": "Friend function",
+          "C": "Const function",
+          "D": "Virtual function",
+        "answer": "Friend function"
+      },
+      {
+        "question": " Which of the following concepts means determining at runtime what method to invoke?",
+
+          "A": "Data hiding",
+          "B": "Dynamic Typing",
+          "C": "Dynamic binding",
+          "D": "Dynamic loading",
+        "answer": "Dynamic binding"
+      },
+      {
+        "question": " Which of the following term is used for a function defined inside a class?",
+
+          "A": "Member Variable",
+          "B": "Member function",
+          "C": "Class function",
+          "D": "Classic function",
+        "answer": "Member function"
+      },
+      {
+        "question": "Which of the following concept of oops allows compiler to insert arguments in a function call if it is not specified?",
+
+          "A": "Call by value",
+          "B": "Call by reference",
+          "C": "Default arguments",
+          "D": "Call by pointer",
+        "answer": "Default arguments"
+      },
+      {
+        "question": "How many instances of an abstract class can be created?",
+
+          "A": "1",
+          "B": "5",
+          "C": "13",
+          "D": "0",
+        "answer": "0"
+      },
+      {
+        "question": "Which of the following cannot be friend?",
+        "A": "Function",
+          "B": "Class",
+          "C": "Object",
+          "D": "Operator function",
+        "answer": "Object"
+      },
+      {
+        "question": " Which of the following concepts of OOPS means exposing only necessary information to client?",
+        "A": "Encapsulation",
+          "B": "Abstraction",
+          "C": "Data hiding",
+          "D": "Data binding",
+        "answer": "Data hiding"
+      }
+    ]
+  },
+  "Android": {
+    "questions":[
+      {
+        "question": " What is Manifest.xml in android?",
+        "A": "It has information about layout in an application",
+          "B": "It has the information about activities in an application",
+          "C": "It has all the information about an application",
+          "D": "None of the above",
+        "answer": "It has all the information about an application"
+      },
+
+      {
+        "question": "What are the return values of onStartCommand() in android services?",
+
+          "A": "START_STICKY",
+          "B": "START_NOT_STICKY",
+          "C": "START_REDELIVER_INTENT",
+          "D": "All of the above",
+        "answer": "All of the above"
+      },
+      {
+        "question": " What is an anonymous class in android?",
+        "A": "Interface class",
+          "B": "A class that does not have a name but have functionalities in it",
+          "C": "Java class",
+          "D": "Manifest file",
+        "answer": "A class that does not have a name but have functionalities in it"
+      },
+      {
+        "question": " Which method is used to find GPS enabled or disabled pro-grammatically in android?",
+
+          "A": "finish()",
+          "B": "getGPSStatus()",
+          "C": "onProviderDisable()",
+          "D": "getGPS()",
+        "answer": "onProviderDisable()"
+      },
+      {
+        "question": " What is the package name of HTTP client in android?",
+
+          "A": "com.json",
+          "B": "org.apache.http.client",
+          "C": "com.android.JSON",
+          "D": "org.json",
+        "answer": "org.apache.http.client"
+      },
+      {
+        "question": " What is sandbox in android?",
+
+          "A": "Each application runs securely in sandbox without interrupting another process",
+          "B": "Android Box",
+          "C": "Android development tool kit",
+          "D": "None of the above",
+        "answer": "Each application runs securely in sandbox without interrupting another process"
+      },
+      {
+        "question": " What is the life cycle of foreground activity in android?",
+
+          "A": "onCreate() −> onStart() −> onResume() −> onStop() −> onRestart",
+          "B": "onCreate() −> onStart() −> onResume() −>onStop()",
+          "C": "onCreate() −> onStart() −> onResume()",
+          "D": "None of the above",
+        "answer": "onCreate() −> onStart() −> onResume()"
+      },
+      {
+        "question": " What is a context in android ?",
+        "A": "It is an interface to store global information about an application ",
+          "B": "It is used to create new components.",
+          "C": "Android has two contexts, those are getContext() and getApplicationContext()",
+          "D": "All of Above",
+        "answer": "All of Above"
+      },
+      {
+        "question": " What is android view group?",
+
+          "A": "Collection of views and other child views",
+          "B": "Base class of building blocks ",
+          "C": "Layouts",
+          "D": "None of the Above ",
+        "answer": "Collection of views and other child views"
+      },
+      {
+        "question": "How to upgrade SQlite the database from a lower version to higher version in android SQlite?",
+
+          "A": "Using helper Class",
+          "B": "Using cursor",
+          "C": "Using intent ",
+          "D": "None of the above ",
+        "answer": "Using helper Class"
+      }
+    ]
+
+  },
+  "JavaScript": {
+    "questions":[
+      {
+        "question": " Which of the following is true about variable naming conventions in JavaScript?",
+        "A": "JavaScript variable names must begin with a letter or the underscore character.",
+        "B": "JavaScript variable names are case sensitive.",
+        "C": "Both of the above.",
+        "D": "None of the above",
+        "answer": "Both of the above."
+      },
+      {
+        "question": "  Which of the following function of Boolean object returns the primitive value of the Boolean object?",
+
+        "A": "toSource()",
+        "B": "valueOf()",
+        "C": "toString()",
+        "D": "None of the above.",
+        "answer": "valueOf()"
+      },
+      {
+        "question": " Which of the following is a valid type of function javascript supports?",
+
+        "A": "named function",
+        "B": "anonymous function",
+        "C": "Both of the above.",
+        "D": "None of the above.",
+        "answer": "Both of the above."
+      },
+      {
+        "question": " Which of the following code creates an object?",
+
+        "A": "var book = Object();",
+        "B": "var book = new Object();",
+        "C": "var book = new OBJECT();",
+        "D": "var book = new Book();",
+        "answer": "var book = new Object();"
+      },
+      {
+        "question": " Which of the following is correct about callbacks?",
+        "A": "A callback is a plain JavaScript function passed to some method as an argument or option.",
+        "B": "Some callbacks are just events, called to give the user a chance to react when a certain state is triggered.",
+        "C": "Both of the above.",
+        "D": "None of the above.",
+        "answer": "Both of the above."
+      },
+
+
+      {
+        "question": " Which of the following function of String object returns the index within the calling String object of the first occurrence of the specified value?",
+
+        "A": "substr()",
+        "B": "search()",
+        "C": "lastIndexOf()",
+        "D": "indexOf()",
+        "answer": "indexOf()"
+      },
+      {
+        "question": " Which of the following function of String object returns the calling string value converted to lower case while respecting the current locale?",
+
+        "A": "toLocaleLowerCase()",
+        "B": "toLowerCase()",
+        "C": "toString()",
+        "D": "substring()",
+        "answer": "toLocaleLowerCase()"
+      },
+      {
+        "question": " Which of the following function of Array object applies a function simultaneously against two values of the array (from left-to-right) as to reduce it to a single value?",
+        "A": "pop()",
+        "B": "push()",
+        "C": "reduce()",
+        "D": "reduceRight()",
+        "answer": "reduce()"
+      },
+      {
+        "question": " Which of the following function of Array object reverses the order of the elements of an array?",
+
+        "A": "reverse()",
+        "B": "push()",
+        "C": "reduce()",
+        "D": "reduceRight()",
+        "answer": "reverse()"
+      },
+      {
+        "question": "Which of the following is the correct syntax to create a cookie using JavaScript?",
+
+        "A": "browser.cookie = 'key1 = value1; key2 = value2; expires = date';",
+        "B": "document.cookie = 'key1 = value1; key2 = value2; expires = date';",
+        "C": "window.cookie = 'key1 = value1; key2 = value2; expires = date';",
+        "D": "navigator.cookie = 'key1 = value1; key2 = value2; expires = date';",
+        "answer": "document.cookie = 'key1 = value1; key2 = value2; expires = date';"
+      }
+    ]
+
+  }
+
+
+
+}

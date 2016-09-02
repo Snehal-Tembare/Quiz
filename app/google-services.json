@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "735903112029",
+    "project_id": "quizapp-5965c"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:735903112029:android:ccc6a32ca762555e",
+        "android_client_info": {
+          "package_name": "com.example.synerzip.quiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "735903112029-59heccuggnms089me6summ2929blr9bd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.synerzip.quiz",
+            "certificate_hash": "6824F2A0F6B304B240CC0D641EB7518B6BF33FD3"
+          }
+        },
+        {
+          "client_id": "735903112029-5leunvv3s0qekm3k4n0te0addh6uui3t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCr5NZ2jam53gUJBQX3D_ou1y9P5KgWUAM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

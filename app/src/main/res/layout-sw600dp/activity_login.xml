@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent"
+    android:background="@color/background_color_all">
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/signin_text"
+        android:textSize="@dimen/tab_signin_here_text_size"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="@dimen/tab_signin_here_text_top_margin"
+        android:textColor="@color/black" />
+
+    <com.google.android.gms.common.SignInButton
+        android:id="@+id/button_sign_in"
+        android:layout_width="@dimen/tab_score_text_view_width"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        />
+
+    <com.facebook.login.widget.LoginButton
+        android:id="@+id/button_login"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/button_sign_in"
+        android:layout_marginTop="@dimen/tab_login_btn_top_margin"
+        android:layout_centerHorizontal="true"
+        android:visibility="gone"/>
+</RelativeLayout>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/background_color_all"
+    >
+    <TextView
+        android:id="@+id/text_result"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="@dimen/tab_quiz_over_top_margin"
+        android:textSize="@dimen/tab_result_name_text_size"
+        android:textColor="@color/black"
+        android:gravity="center_horizontal"
+        android:text="@string/result"/>
+    <TextView
+        android:id="@+id/text_user_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="@dimen/tab_quiz_over_top_margin"
+        android:textSize="@dimen/tab_score_text_size"
+        android:textColor="@color/black"
+        android:gravity="center_horizontal"
+         />
+
+    <TextView
+        android:id="@+id/text_grade"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="@dimen/tab_quiz_over_top_margin"
+        android:textSize="@dimen/tab_result_total_text_size"
+        android:textColor="@color/black"
+        android:gravity="center_horizontal"
+        />
+    <TextView
+        android:id="@+id/text_total_marks"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="@dimen/tab_quiz_over_top_margin"
+        android:textSize="@dimen/tab_result_total_text_size"
+        android:textColor="@color/black"
+        android:gravity="center_horizontal"
+        />
+    <Button
+        android:id="@+id/button_exit"
+        android:layout_width="@dimen/go_to_home_btn_width"
+        android:layout_height="wrap_content"
+        android:text="@string/exit"
+        android:textColor="@color/black"
+        android:textSize="@dimen/tab_option_text_size"
+        android:layout_gravity="center_horizontal"
+        android:background="@drawable/circlulartextview"
+        android:layout_marginTop="@dimen/tab_exit_button_top_margin" />
+
+
+</LinearLayout>
