@@ -4,5 +4,6 @@ out of 50 overall for your performance.The questions are asked one by one  using
 You can skip question.Once you entered in particular subject's quiz you can't give it again.
 
 
-![screenshot_2016-09-05-14-14-47](https://cloud.githubusercontent.com/assets/19224538/18195431/025dedd2-7109-11e6-85ae-1cd73e994f82.png)
+<!--![screenshot_2016-09-05-14-14-47](https://cloud.githubusercontent.com/assets/19224538/18195431/025dedd2-7109-11e6-85ae-1cd73e994f82.png | width=48)-->
+<img src="https://cloud.githubusercontent.com/assets/19224538/18195431/025dedd2-7109-11e6-85ae-1cd73e994f82.png" height="400" width="200" align="center">
 
