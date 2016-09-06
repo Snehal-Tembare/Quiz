@@ -3,388 +3,402 @@
 
     <item
         jar="/home/synerzip/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpcore/4.4.1/f5aa318bda4c6c8d688c9d00b90681dcd82ce636/httpcore-4.4.1.jar"
-        jumboMode="false"
+        jumboMode="true"
         revision="23.0.2"
         sha1="f5aa318bda4c6c8d688c9d00b90681dcd82ce636">
-        <dex dex="/home/synerzip/AndroidStudioProjects/Quiz2/app/build/intermediates/transforms/dex/debug/folders/1000/10/httpcore-4.4.1_07c029a75afa7667bc81a61eb6492fdd1419d3dd/classes.dex" />
+        <dex dex="/home/synerzip/Quiz_Final/Quiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/httpcore-4.4.1_07c029a75afa7667bc81a61eb6492fdd1419d3dd/classes.dex" />
     </item>
     <item
-        jar="/home/synerzip/AndroidStudioProjects/Quiz2/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.2.0/jars/libs/internal_impl-22.2.0.jar"
-        jumboMode="false"
+        jar="/home/synerzip/Quiz_Final/Quiz/app/libs/mail.jar"
+        jumboMode="true"
         revision="23.0.2"
-        sha1="0632f06970823b7e3436f649bfa65b47035c91d0">
-        <dex dex="/home/synerzip/AndroidStudioProjects/Quiz2/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-22.2.0_2e967c78bbe6d87ac13563839f59a278d16cb8a8/classes.dex" />
+        sha1="428e267abff0d10802ccde86b915da2c20471160">
+        <dex dex="/home/synerzip/Quiz_Final/Quiz/app/build/intermediates/transforms/dex/debug/folders/1000/2/mail_7c9bb34d55f3bbf372c886b6b2b02110421cab67/classes.dex" />
     </item>
     <item
-        jar="/home/synerzip/AndroidStudioProjects/Quiz2/app/build/intermediates/exploded-aar/pub.devrel/easypermissions/0.1.5/jars/classes.jar"
-        jumboMode="false"
+        jar="/home/synerzip/Quiz_Final/Quiz/app/build/intermediates/exploded-aar/pub.devrel/easypermissions/0.1.5/jars/classes.jar"
+        jumboMode="true"
         revision="23.0.2"
         sha1="2ffd97c466e0021572f3c7333839c71ecdf393ed">
-        <dex dex="/home/synerzip/AndroidStudioProjects/Quiz2/app/build/intermediates/transforms/dex/debug/folders/1000/10/pub.devrel-easypermissions-0.1.5_e9a371436d50fc7dec2c3c12b6d0a7e59a06ffb1/classes.dex" />
+        <dex dex="/home/synerzip/Quiz_Final/Quiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/pub.devrel-easypermissions-0.1.5_a116dca55c2bc3332dd582e7944ca8393d8c15c0/classes.dex" />
     </item>
     <item
-        jar="/home/synerzip/AndroidStudioProjects/Quiz2/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/jars/classes.jar"
-        jumboMode="false"
+        jar="/home/synerzip/Quiz_Final/Quiz/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/8.3.0/jars/classes.jar"
+        jumboMode="true"
         revision="23.0.2"
-        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
-        <dex dex="/home/synerzip/AndroidStudioProjects/Quiz2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-23.1.1_76733b65d71290d72794e6cc4c3c51e8444b2061/classes.dex" />
+        sha1="9aedc597d74c6d77258ce5236e9abff0c3cc65e3">
+        <dex dex="/home/synerzip/Quiz_Final/Quiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wearable-8.3.0_600331c24c0b8c8d74343542598905123d2e275d/classes.dex" />
+    </item>
+    <item
+        jar="/home/synerzip/Quiz_Final/Quiz/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/8.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="697679619b00837e3d09e9988a2e1e2a9009d502">
+        <dex dex="/home/synerzip/Quiz_Final/Quiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-fitness-8.3.0_6bc7b9c251a1ea7cc353249217d7f9522b57c34e/classes.dex" />
     </item>
     <item
         jar="/home/synerzip/.gradle/caches/modules-2/files-2.1/com.google.http-client/google-http-client-jackson2/1.22.0/cc014d64ae11117e159d334c99d9c246d9b36f44/google-http-client-jackson2-1.22.0.jar"
-        jumboMode="false"
+        jumboMode="true"
         revision="23.0.2"
         sha1="cc014d64ae11117e159d334c99d9c246d9b36f44">
-        <dex dex="/home/synerzip/AndroidStudioProjects/Quiz2/app/build/intermediates/transforms/dex/debug/folders/1000/10/google-http-client-jackson2-1.22.0_1b9d816c39075d708af76f8a9fe9e9565e634104/classes.dex" />
+        <dex dex="/home/synerzip/Quiz_Final/Quiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/google-http-client-jackson2-1.22.0_1b9d816c39075d708af76f8a9fe9e9565e634104/classes.dex" />
     </item>
     <item
-        jar="/home/synerzip/AndroidStudioProjects/Quiz2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/8.3.0/jars/classes.jar"
-        jumboMode="false"
+        jar="/home/synerzip/Quiz_Final/Quiz/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/8.3.0/jars/classes.jar"
+        jumboMode="true"
         revision="23.0.2"
-        sha1="744c49c02a27569cc4cc049685d3649e4ef439f2">
-        <dex dex="/home/synerzip/AndroidStudioProjects/Quiz2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-panorama-8.3.0_616d265f179f48df31030a970abca1a45be520ce/classes.dex" />
+        sha1="71eda10e33212e44245524b5087366ff8d805825">
+        <dex dex="/home/synerzip/Quiz_Final/Quiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gcm-8.3.0_d1c8dd378b833da9618c79db37a6e396d38ed1df/classes.dex" />
     </item>
     <item
-        jar="/home/synerzip/AndroidStudioProjects/Quiz2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/8.3.0/jars/classes.jar"
-        jumboMode="false"
+        jar="/home/synerzip/Quiz_Final/Quiz/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
         revision="23.0.2"
-        sha1="4b8df1b1e51fe14b0e89b3845dc2e215a024a09f">
-        <dex dex="/home/synerzip/AndroidStudioProjects/Quiz2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-identity-8.3.0_5ff20c7b5977c09356749093492417bd36dcc8d5/classes.dex" />
-    </item>
-    <item
-        jar="/home/synerzip/AndroidStudioProjects/Quiz2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.3.0/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="345a1b5cf5b144ce18ba6962bc66a7e2f26c1c1b">
-        <dex dex="/home/synerzip/AndroidStudioProjects/Quiz2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-8.3.0_146f3a84ddd17e7938d20e587f7c41c73b6eb8ef/classes.dex" />
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/home/synerzip/Quiz_Final/Quiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_b269878f6ffbcef764baf74ff5ac8d2fa875c318/classes.dex" />
     </item>
     <item
         jar="/home/synerzip/.gradle/caches/modules-2/files-2.1/com.google.api-client/google-api-client/1.22.0/244350c0c845c583717ade13f5666a452fd0cfa/google-api-client-1.22.0.jar"
-        jumboMode="false"
+        jumboMode="true"
         revision="23.0.2"
         sha1="0244350c0c845c583717ade13f5666a452fd0cfa">
-        <dex dex="/home/synerzip/AndroidStudioProjects/Quiz2/app/build/intermediates/transforms/dex/debug/folders/1000/10/google-api-client-1.22.0_516476f674203c1ee180f4b09c181b4c01b689d6/classes.dex" />
+        <dex dex="/home/synerzip/Quiz_Final/Quiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/google-api-client-1.22.0_516476f674203c1ee180f4b09c181b4c01b689d6/classes.dex" />
     </item>
     <item
-        jar="/home/synerzip/AndroidStudioProjects/Quiz2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/8.3.0/jars/classes.jar"
-        jumboMode="false"
+        jar="/home/synerzip/Quiz_Final/Quiz/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.3.0/jars/classes.jar"
+        jumboMode="true"
         revision="23.0.2"
-        sha1="27775d59b16610ac76f1b83693fedd9520396332">
-        <dex dex="/home/synerzip/AndroidStudioProjects/Quiz2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-8.3.0_560e9a2666c6340d225cb5b145179edd922aea4f/classes.dex" />
+        sha1="01a90bbb9495a8bbf6f3cfdf12f1b35caaa9524b">
+        <dex dex="/home/synerzip/Quiz_Final/Quiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-8.3.0_4296ca8fde5ed372dfad377f9cdf27c5e1195e8a/classes.dex" />
     </item>
     <item
-        jar="/home/synerzip/AndroidStudioProjects/Quiz2/app/libs/activation.jar"
-        jumboMode="false"
+        jar="/home/synerzip/Quiz_Final/Quiz/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.0.0/jars/classes.jar"
+        jumboMode="true"
         revision="23.0.2"
-        sha1="d1257cbff6faa44c1f325ae0d9413522d4644383">
-        <dex dex="/home/synerzip/AndroidStudioProjects/Quiz2/app/build/intermediates/transforms/dex/debug/folders/1000/2/activation_ba1c3c1e3ce93cf4df759786ecd7e2eb071a0931/classes.dex" />
+        sha1="0f254ec13d6671680482d2218f01ecf14dfa93e6">
+        <dex dex="/home/synerzip/Quiz_Final/Quiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.facebook.android-facebook-android-sdk-4.0.0_46db46ade501e2116082dd586023c3e76c86da54/classes.dex" />
+    </item>
+    <item
+        jar="/home/synerzip/Quiz_Final/Quiz/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="dcf8c83c3dead00a6c4fe313e95f7aaca20dc641">
+        <dex dex="/home/synerzip/Quiz_Final/Quiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-mediarouter-v7-22.2.0_aa9d35888eb8eae36cd85bcf862ab2c65673f04c/classes.dex" />
     </item>
     <item
         jar="/home/synerzip/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/1.3.9/40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf/jsr305-1.3.9.jar"
-        jumboMode="false"
+        jumboMode="true"
         revision="23.0.2"
         sha1="40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf">
-        <dex dex="/home/synerzip/AndroidStudioProjects/Quiz2/app/build/intermediates/transforms/dex/debug/folders/1000/10/jsr305-1.3.9_3c3c11c044a2c7b2d7f354eefe89880160020a84/classes.dex" />
+        <dex dex="/home/synerzip/Quiz_Final/Quiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/jsr305-1.3.9_3c3c11c044a2c7b2d7f354eefe89880160020a84/classes.dex" />
     </item>
     <item
         jar="/home/synerzip/.gradle/caches/modules-2/files-2.1/com.google.http-client/google-http-client-android/1.22.0/6d1e1a76a16a244ab2f41775791be1dd0ec2878a/google-http-client-android-1.22.0.jar"
-        jumboMode="false"
+        jumboMode="true"
         revision="23.0.2"
         sha1="6d1e1a76a16a244ab2f41775791be1dd0ec2878a">
-        <dex dex="/home/synerzip/AndroidStudioProjects/Quiz2/app/build/intermediates/transforms/dex/debug/folders/1000/10/google-http-client-android-1.22.0_dadc23ea9a17d04bed80e5fafd2f23dbd2021beb/classes.dex" />
+        <dex dex="/home/synerzip/Quiz_Final/Quiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/google-http-client-android-1.22.0_dadc23ea9a17d04bed80e5fafd2f23dbd2021beb/classes.dex" />
     </item>
     <item
-        jar="/home/synerzip/AndroidStudioProjects/Quiz2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/8.3.0/jars/classes.jar"
-        jumboMode="false"
+        jar="/home/synerzip/Quiz_Final/Quiz/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/8.3.0/jars/classes.jar"
+        jumboMode="true"
         revision="23.0.2"
-        sha1="2c6fcd6267cbac6509a2e72a61127534a1d616cf">
-        <dex dex="/home/synerzip/AndroidStudioProjects/Quiz2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-games-8.3.0_48962b8954ff424a3e72aea01e77d7bd244017ad/classes.dex" />
+        sha1="744c49c02a27569cc4cc049685d3649e4ef439f2">
+        <dex dex="/home/synerzip/Quiz_Final/Quiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-panorama-8.3.0_5821856ec2dd7d0a15b21171ac25425b02729f7d/classes.dex" />
     </item>
     <item
-        jar="/home/synerzip/AndroidStudioProjects/Quiz2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
-        jumboMode="false"
+        jar="/home/synerzip/Quiz_Final/Quiz/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/8.3.0/jars/classes.jar"
+        jumboMode="true"
         revision="23.0.2"
-        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
-        <dex dex="/home/synerzip/AndroidStudioProjects/Quiz2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.4.0_1757c988c1358d7b06605106e1226f9a70849120/classes.dex" />
-    </item>
-    <item
-        jar="/home/synerzip/AndroidStudioProjects/Quiz2/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.0.0/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="0f254ec13d6671680482d2218f01ecf14dfa93e6">
-        <dex dex="/home/synerzip/AndroidStudioProjects/Quiz2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.facebook.android-facebook-android-sdk-4.0.0_e92922ab301f4e7c5b5615ce1e743305557a970c/classes.dex" />
+        sha1="27775d59b16610ac76f1b83693fedd9520396332">
+        <dex dex="/home/synerzip/Quiz_Final/Quiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-8.3.0_9f2c7f1c0dd1536754485b1e6ba7f95b910e3017/classes.dex" />
     </item>
     <item
         jar="/home/synerzip/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.1.3/f6c3aed1cdfa21b5c1737c915186ea93a95a58bd/jackson-core-2.1.3.jar"
-        jumboMode="false"
+        jumboMode="true"
         revision="23.0.2"
         sha1="f6c3aed1cdfa21b5c1737c915186ea93a95a58bd">
-        <dex dex="/home/synerzip/AndroidStudioProjects/Quiz2/app/build/intermediates/transforms/dex/debug/folders/1000/10/jackson-core-2.1.3_ddd03055f8691b32b98e4719c637553eddf6b5f9/classes.dex" />
-    </item>
-    <item
-        jar="/home/synerzip/AndroidStudioProjects/Quiz2/app/libs/android-support-v4.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="5896b0a4e377ac4242eb2bc785220c1c4fc052f4">
-        <dex dex="/home/synerzip/AndroidStudioProjects/Quiz2/app/build/intermediates/transforms/dex/debug/folders/1000/2/android-support-v4_7edc499cf9fe9000c2f0a9e236589392dbbb4ef0/classes.dex" />
-    </item>
-    <item
-        jar="/home/synerzip/.gradle/caches/modules-2/files-2.1/com.google.oauth-client/google-oauth-client/1.22.0/1d63f369ac78e4838a3197147012026e791008cb/google-oauth-client-1.22.0.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="1d63f369ac78e4838a3197147012026e791008cb">
-        <dex dex="/home/synerzip/AndroidStudioProjects/Quiz2/app/build/intermediates/transforms/dex/debug/folders/1000/10/google-oauth-client-1.22.0_475c27e33501709f82984ce4489a400e4dcd9d0b/classes.dex" />
+        <dex dex="/home/synerzip/Quiz_Final/Quiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/jackson-core-2.1.3_ddd03055f8691b32b98e4719c637553eddf6b5f9/classes.dex" />
     </item>
     <item
         jar="/home/synerzip/.gradle/caches/modules-2/files-2.1/com.google.apis/google-api-services-sheets/v4-rev13-1.22.0/3d65b6e919b9eae7c3e9a99435b9e6cd5e62e77/google-api-services-sheets-v4-rev13-1.22.0.jar"
-        jumboMode="false"
+        jumboMode="true"
         revision="23.0.2"
         sha1="03d65b6e919b9eae7c3e9a99435b9e6cd5e62e77">
-        <dex dex="/home/synerzip/AndroidStudioProjects/Quiz2/app/build/intermediates/transforms/dex/debug/folders/1000/10/google-api-services-sheets-v4-rev13-1.22.0_8eee6129429ce0b9c9194af123a59538712c8f62/classes.dex" />
+        <dex dex="/home/synerzip/Quiz_Final/Quiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/google-api-services-sheets-v4-rev13-1.22.0_8eee6129429ce0b9c9194af123a59538712c8f62/classes.dex" />
     </item>
     <item
-        jar="/home/synerzip/AndroidStudioProjects/Quiz2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/8.3.0/jars/classes.jar"
-        jumboMode="false"
+        jar="/home/synerzip/Quiz_Final/Quiz/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/8.3.0/jars/classes.jar"
+        jumboMode="true"
         revision="23.0.2"
-        sha1="cb4af597d079ffdc0984a3ec2c03cbf6a1b9f869">
-        <dex dex="/home/synerzip/AndroidStudioProjects/Quiz2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-cast-8.3.0_c716fb57343eaf53c25ce12f304564f0a3e5d9d8/classes.dex" />
+        sha1="4b8df1b1e51fe14b0e89b3845dc2e215a024a09f">
+        <dex dex="/home/synerzip/Quiz_Final/Quiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-identity-8.3.0_cd5ba06471b389859d84b5b65f6d4258cca0e555/classes.dex" />
+    </item>
+    <item
+        jar="/home/synerzip/Quiz_Final/Quiz/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/8.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="58adcfbe2c8393765e84c5489d01bba6a5159eb2">
+        <dex dex="/home/synerzip/Quiz_Final/Quiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appinvite-8.3.0_b56752245c69e4fd0b61c03441147fefcfae9243/classes.dex" />
+    </item>
+    <item
+        jar="/home/synerzip/Quiz_Final/Quiz/app/libs/activation.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="d1257cbff6faa44c1f325ae0d9413522d4644383">
+        <dex dex="/home/synerzip/Quiz_Final/Quiz/app/build/intermediates/transforms/dex/debug/folders/1000/2/activation_99a5e5e9562429809e090ab37072cf07fb0edcce/classes.dex" />
+    </item>
+    <item
+        jar="/home/synerzip/.gradle/caches/modules-2/files-2.1/com.google.oauth-client/google-oauth-client/1.22.0/1d63f369ac78e4838a3197147012026e791008cb/google-oauth-client-1.22.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="1d63f369ac78e4838a3197147012026e791008cb">
+        <dex dex="/home/synerzip/Quiz_Final/Quiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/google-oauth-client-1.22.0_475c27e33501709f82984ce4489a400e4dcd9d0b/classes.dex" />
+    </item>
+    <item
+        jar="/home/synerzip/Quiz_Final/Quiz/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/8.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="ea34579b1be157cd792376362157e9c54ebb4cd7">
+        <dex dex="/home/synerzip/Quiz_Final/Quiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-safetynet-8.3.0_233484bf4161234ea41dd55657f0f4120e4b393b/classes.dex" />
     </item>
     <item
         jar="/home/synerzip/.gradle/caches/modules-2/files-2.1/com.google.guava/guava-jdk5/17.0/463f8378feba44df7ba7cd9272d01837dad62b36/guava-jdk5-17.0.jar"
-        jumboMode="false"
+        jumboMode="true"
         revision="23.0.2"
         sha1="463f8378feba44df7ba7cd9272d01837dad62b36">
-        <dex dex="/home/synerzip/AndroidStudioProjects/Quiz2/app/build/intermediates/transforms/dex/debug/folders/1000/10/guava-jdk5-17.0_b009ac27e5425ff5e15cc3ea580f1ca0083648ee/classes.dex" />
+        <dex dex="/home/synerzip/Quiz_Final/Quiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/guava-jdk5-17.0_b009ac27e5425ff5e15cc3ea580f1ca0083648ee/classes.dex" />
+    </item>
+    <item
+        jar="/home/synerzip/Quiz_Final/Quiz/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="097e13e3ec3809ea732ffb3379aee21b6f2f4857">
+        <dex dex="/home/synerzip/Quiz_Final/Quiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_3aa59a9af6402e4180f5cb59871023b9fcca51a4/classes.dex" />
+    </item>
+    <item
+        jar="/home/synerzip/Quiz_Final/Quiz/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/8.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="9c9bdb4b2497465a6cf7d5e8f57c5298f828a380">
+        <dex dex="/home/synerzip/Quiz_Final/Quiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wallet-8.3.0_888d5279c5a1c911b5bd3e2057e13d547168ef3b/classes.dex" />
+    </item>
+    <item
+        jar="/home/synerzip/Quiz_Final/Quiz/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/home/synerzip/Quiz_Final/Quiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.4.0_d9e312dfbe465cdb5478bed23e7c56645ec524a9/classes.dex" />
     </item>
     <item
         jar="/home/synerzip/.gradle/caches/modules-2/files-2.1/com.google.http-client/google-http-client/1.22.0/d441fc58329c4a4c067acec04ac361627f66ecc8/google-http-client-1.22.0.jar"
-        jumboMode="false"
+        jumboMode="true"
         revision="23.0.2"
         sha1="d441fc58329c4a4c067acec04ac361627f66ecc8">
-        <dex dex="/home/synerzip/AndroidStudioProjects/Quiz2/app/build/intermediates/transforms/dex/debug/folders/1000/10/google-http-client-1.22.0_32982b7efd23f9f78bd025f754b85b805a8f0a32/classes.dex" />
+        <dex dex="/home/synerzip/Quiz_Final/Quiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/google-http-client-1.22.0_32982b7efd23f9f78bd025f754b85b805a8f0a32/classes.dex" />
     </item>
     <item
-        jar="/home/synerzip/AndroidStudioProjects/Quiz2/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
-        jumboMode="false"
+        jar="/home/synerzip/Quiz_Final/Quiz/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/jars/classes.jar"
+        jumboMode="true"
         revision="23.0.2"
-        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
-        <dex dex="/home/synerzip/AndroidStudioProjects/Quiz2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.4.0_3fe40870145cd017b2d651d0c072a0cdf6c668fa/classes.dex" />
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="/home/synerzip/Quiz_Final/Quiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-23.1.1_858cd7a8265d21153937bd29630eeed027900f9d/classes.dex" />
     </item>
     <item
-        jar="/home/synerzip/AndroidStudioProjects/Quiz2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-measurement/8.3.0/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="b000ecceb9877fefcdc7ab1959ff03df91551656">
-        <dex dex="/home/synerzip/AndroidStudioProjects/Quiz2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-measurement-8.3.0_ea77d6b9757e6cee2e647dc30bfac677956e998f/classes.dex" />
-    </item>
-    <item
-        jar="/home/synerzip/AndroidStudioProjects/Quiz2/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
-        <dex dex="/home/synerzip/AndroidStudioProjects/Quiz2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.4.0_87ac28fb4393077a02f92f9c69f3c0af51ab3a55/classes.dex" />
-    </item>
-    <item
-        jar="/home/synerzip/AndroidStudioProjects/Quiz2/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.1.1/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
-        <dex dex="/home/synerzip/AndroidStudioProjects/Quiz2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.1.1_e8eabb085a9d95a8c89f6c11ac50273ddd3e2cd2/classes.dex" />
-    </item>
-    <item
-        jar="/home/synerzip/AndroidStudioProjects/Quiz2/app/libs/apache-httpcomponents-httpclient.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="13d1b1d8f318f5b0f95bc2901f378ef68982584f">
-        <dex dex="/home/synerzip/AndroidStudioProjects/Quiz2/app/build/intermediates/transforms/dex/debug/folders/1000/2/apache-httpcomponents-httpclient_3b1ffe3fadeb478aa555323de42e462e9a553f9a/classes.dex" />
-    </item>
-    <item
-        jar="/home/synerzip/AndroidStudioProjects/Quiz2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/8.3.0/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="0c3e81d3eb86b86d194b5cdb6a4de78203f6f7fd">
-        <dex dex="/home/synerzip/AndroidStudioProjects/Quiz2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appindexing-8.3.0_961e60e6bce2e4ce2a7334ff99f1c18095ef703e/classes.dex" />
-    </item>
-    <item
-        jar="/home/synerzip/AndroidStudioProjects/Quiz2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/8.3.0/jars/classes.jar"
-        jumboMode="false"
+        jar="/home/synerzip/Quiz_Final/Quiz/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/8.3.0/jars/classes.jar"
+        jumboMode="true"
         revision="23.0.2"
         sha1="0af4f577b4a21eb9be2a7f52e33b077b67e6d9f8">
-        <dex dex="/home/synerzip/AndroidStudioProjects/Quiz2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-plus-8.3.0_8d09c9dbca662e0ef1e190c4734563003c38c16d/classes.dex" />
+        <dex dex="/home/synerzip/Quiz_Final/Quiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-plus-8.3.0_833af7a36524e9e21285443e890b7543b9beef0f/classes.dex" />
     </item>
     <item
-        jar="/home/synerzip/AndroidStudioProjects/Quiz2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/8.3.0/jars/classes.jar"
-        jumboMode="false"
+        jar="/home/synerzip/Quiz_Final/Quiz/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/8.3.0/jars/classes.jar"
+        jumboMode="true"
         revision="23.0.2"
-        sha1="eb576427887e497cd958a475475f9206e38dc314">
-        <dex dex="/home/synerzip/AndroidStudioProjects/Quiz2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-nearby-8.3.0_f71f3860137bf1e998dbcce41ae25b658069c4a3/classes.dex" />
+        sha1="6d9ed9a288364688e7fcf6704776284dac1eb42e">
+        <dex dex="/home/synerzip/Quiz_Final/Quiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-location-8.3.0_71ed8512e6e307de399f7e6d0ffc73c119bc6992/classes.dex" />
     </item>
     <item
-        jar="/home/synerzip/AndroidStudioProjects/Quiz2/app/libs/opencsv-3.8.jar"
-        jumboMode="false"
+        jar="/home/synerzip/Quiz_Final/Quiz/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/8.3.0/jars/classes.jar"
+        jumboMode="true"
         revision="23.0.2"
-        sha1="248d4d05fe253a02a05601978f7de1305b8a961e">
-        <dex dex="/home/synerzip/AndroidStudioProjects/Quiz2/app/build/intermediates/transforms/dex/debug/folders/1000/2/opencsv-3.8_acc0a28b37c0796965b42919faf6b3189aa99368/classes.dex" />
+        sha1="af6ee25641df3142059c0828517aa7ee6eba08d6">
+        <dex dex="/home/synerzip/Quiz_Final/Quiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-8.3.0_fc87e2e7fd78b1a793b96723400b08466823fb16/classes.dex" />
     </item>
     <item
-        jar="/home/synerzip/AndroidStudioProjects/Quiz2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/8.3.0/jars/classes.jar"
-        jumboMode="false"
+        jar="/home/synerzip/Quiz_Final/Quiz/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.3.0/jars/classes.jar"
+        jumboMode="true"
         revision="23.0.2"
-        sha1="ea34579b1be157cd792376362157e9c54ebb4cd7">
-        <dex dex="/home/synerzip/AndroidStudioProjects/Quiz2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-safetynet-8.3.0_79d13f8a031ee4468b45aac493e83dd14fbd3720/classes.dex" />
+        sha1="345a1b5cf5b144ce18ba6962bc66a7e2f26c1c1b">
+        <dex dex="/home/synerzip/Quiz_Final/Quiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-8.3.0_a5f20f20f1688fabab719bfc463314814864f45b/classes.dex" />
     </item>
     <item
-        jar="/home/synerzip/AndroidStudioProjects/Quiz2/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
-        jumboMode="false"
+        jar="/home/synerzip/Quiz_Final/Quiz/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
         revision="23.0.2"
-        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
-        <dex dex="/home/synerzip/AndroidStudioProjects/Quiz2/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_6d7fc888919172e189b2e13e2e2acb5ca7b2c266/classes.dex" />
+        sha1="1dda98426c43233b15e54b2bfb9f5281305ea539">
+        <dex dex="/home/synerzip/Quiz_Final/Quiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_88af84c2dca8681ef558837b9c2687891554c127/classes.dex" />
     </item>
     <item
-        jar="/home/synerzip/AndroidStudioProjects/Quiz2/app/libs/http-core-4.1.jar"
-        jumboMode="false"
+        jar="/home/synerzip/Quiz_Final/Quiz/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
         revision="23.0.2"
-        sha1="1bf8391d59bf37ddf2aa51aa90467afd0388bc2c">
-        <dex dex="/home/synerzip/AndroidStudioProjects/Quiz2/app/build/intermediates/transforms/dex/debug/folders/1000/2/http-core-4.1_b1c417f2d0feccc4a0973ed0e6f458b137b88e06/classes.dex" />
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/home/synerzip/Quiz_Final/Quiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.4.0_03eb531100a597914cdd894df2cf7729c50361af/classes.dex" />
     </item>
     <item
-        jar="/home/synerzip/AndroidStudioProjects/Quiz2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/8.3.0/jars/classes.jar"
-        jumboMode="false"
+        jar="/home/synerzip/Quiz_Final/Quiz/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/8.3.0/jars/classes.jar"
+        jumboMode="true"
         revision="23.0.2"
-        sha1="724ce977487ab3a215d4d2eb47d8dccd9f30013f">
-        <dex dex="/home/synerzip/AndroidStudioProjects/Quiz2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-vision-8.3.0_cb782bdc05f5030f166d07990382d5220a3af9de/classes.dex" />
-    </item>
-    <item
-        jar="/home/synerzip/AndroidStudioProjects/Quiz2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/8.3.0/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="697679619b00837e3d09e9988a2e1e2a9009d502">
-        <dex dex="/home/synerzip/AndroidStudioProjects/Quiz2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-fitness-8.3.0_f335d130ff82cd66bf47e7985552b0845dae2a9a/classes.dex" />
+        sha1="77f9593d979f4347344be233bd0d888315f79517">
+        <dex dex="/home/synerzip/Quiz_Final/Quiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-maps-8.3.0_b43ef7aabe179492a419d5230d94cef253b99fe8/classes.dex" />
     </item>
     <item
         jar="/home/synerzip/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-android/1.1.4/129874135e6081269ace2312092031558865de12/bolts-android-1.1.4.jar"
-        jumboMode="false"
+        jumboMode="true"
         revision="23.0.2"
         sha1="129874135e6081269ace2312092031558865de12">
-        <dex dex="/home/synerzip/AndroidStudioProjects/Quiz2/app/build/intermediates/transforms/dex/debug/folders/1000/10/bolts-android-1.1.4_89b11e93dcac5e481b00f39c74b6f7c20f4258d3/classes.dex" />
+        <dex dex="/home/synerzip/Quiz_Final/Quiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/bolts-android-1.1.4_89b11e93dcac5e481b00f39c74b6f7c20f4258d3/classes.dex" />
     </item>
     <item
-        jar="/home/synerzip/AndroidStudioProjects/Quiz2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/8.3.0/jars/classes.jar"
-        jumboMode="false"
+        jar="/home/synerzip/Quiz_Final/Quiz/app/libs/android-support-v4.jar"
+        jumboMode="true"
         revision="23.0.2"
-        sha1="77f9593d979f4347344be233bd0d888315f79517">
-        <dex dex="/home/synerzip/AndroidStudioProjects/Quiz2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-maps-8.3.0_04249ecbc75230233da084fdb80da2352679bf45/classes.dex" />
+        sha1="5896b0a4e377ac4242eb2bc785220c1c4fc052f4">
+        <dex dex="/home/synerzip/Quiz_Final/Quiz/app/build/intermediates/transforms/dex/debug/folders/1000/2/android-support-v4_e11fd2e1dd40049c0ab189317af3221897f47da6/classes.dex" />
     </item>
     <item
-        jar="/home/synerzip/AndroidStudioProjects/Quiz2/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
-        <dex dex="/home/synerzip/AndroidStudioProjects/Quiz2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.4.0_ab22e8dc5fd7dff272007b83972d5010426b4029/classes.dex" />
-    </item>
-    <item
-        jar="/home/synerzip/AndroidStudioProjects/Quiz2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/8.3.0/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="0a1897426566e408a5c20a3d931f77d89771d07f">
-        <dex dex="/home/synerzip/AndroidStudioProjects/Quiz2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-drive-8.3.0_2b90477e35dcc1a90fd43c77d2ceb2ce8e65545a/classes.dex" />
-    </item>
-    <item
-        jar="/home/synerzip/AndroidStudioProjects/Quiz2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.3.0/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="01a90bbb9495a8bbf6f3cfdf12f1b35caaa9524b">
-        <dex dex="/home/synerzip/AndroidStudioProjects/Quiz2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-8.3.0_99c37f4ac9ac2f471e93e785aa2e2e310452740b/classes.dex" />
-    </item>
-    <item
-        jar="/home/synerzip/AndroidStudioProjects/Quiz2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/8.3.0/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="9c9bdb4b2497465a6cf7d5e8f57c5298f828a380">
-        <dex dex="/home/synerzip/AndroidStudioProjects/Quiz2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wallet-8.3.0_ed2576e213399ca6780f90af0fc65c28e27c55b9/classes.dex" />
-    </item>
-    <item
-        jar="/home/synerzip/AndroidStudioProjects/Quiz2/app/libs/additionnal.jar"
-        jumboMode="false"
+        jar="/home/synerzip/Quiz_Final/Quiz/app/libs/additionnal.jar"
+        jumboMode="true"
         revision="23.0.2"
         sha1="bd9e8dc422bb8c8405359947fe9f4282b49f57f4">
-        <dex dex="/home/synerzip/AndroidStudioProjects/Quiz2/app/build/intermediates/transforms/dex/debug/folders/1000/2/additionnal_34bd6a350b739961ab2dc5af8da3046fbb6bd30d/classes.dex" />
+        <dex dex="/home/synerzip/Quiz_Final/Quiz/app/build/intermediates/transforms/dex/debug/folders/1000/2/additionnal_35eb89572e760d38394f103359b65f0a0221e9ac/classes.dex" />
+    </item>
+    <item
+        jar="/home/synerzip/Quiz_Final/Quiz/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/8.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="2c6fcd6267cbac6509a2e72a61127534a1d616cf">
+        <dex dex="/home/synerzip/Quiz_Final/Quiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-games-8.3.0_4ccecf62835573b99e5c0fee43b03d83516a99aa/classes.dex" />
+    </item>
+    <item
+        jar="/home/synerzip/Quiz_Final/Quiz/app/libs/opencsv-3.8.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="248d4d05fe253a02a05601978f7de1305b8a961e">
+        <dex dex="/home/synerzip/Quiz_Final/Quiz/app/build/intermediates/transforms/dex/debug/folders/1000/2/opencsv-3.8_12275594bf7b2dcbcbd5e0c597f57a1ca7f6ebef/classes.dex" />
+    </item>
+    <item
+        jar="/home/synerzip/Quiz_Final/Quiz/app/libs/http-core-4.1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="1bf8391d59bf37ddf2aa51aa90467afd0388bc2c">
+        <dex dex="/home/synerzip/Quiz_Final/Quiz/app/build/intermediates/transforms/dex/debug/folders/1000/2/http-core-4.1_ba4aaffbcdef483fbe5ddeb6b956630570f4f397/classes.dex" />
     </item>
     <item
         jar="/home/synerzip/.gradle/caches/modules-2/files-2.1/com.google.api-client/google-api-client-android/1.22.0/7a0fe12b7d8189a821934d6f9d6586d00180e461/google-api-client-android-1.22.0.jar"
-        jumboMode="false"
+        jumboMode="true"
         revision="23.0.2"
         sha1="7a0fe12b7d8189a821934d6f9d6586d00180e461">
-        <dex dex="/home/synerzip/AndroidStudioProjects/Quiz2/app/build/intermediates/transforms/dex/debug/folders/1000/10/google-api-client-android-1.22.0_5c800a1a60f9d00ae26841194ae2028f21001b85/classes.dex" />
+        <dex dex="/home/synerzip/Quiz_Final/Quiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/google-api-client-android-1.22.0_5c800a1a60f9d00ae26841194ae2028f21001b85/classes.dex" />
     </item>
     <item
-        jar="/home/synerzip/AndroidStudioProjects/Quiz2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/8.3.0/jars/classes.jar"
-        jumboMode="false"
+        jar="/home/synerzip/Quiz_Final/Quiz/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/8.3.0/jars/classes.jar"
+        jumboMode="true"
         revision="23.0.2"
-        sha1="9aedc597d74c6d77258ce5236e9abff0c3cc65e3">
-        <dex dex="/home/synerzip/AndroidStudioProjects/Quiz2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wearable-8.3.0_25446682de390bc8a6afd5030e8fc29890dfaa70/classes.dex" />
+        sha1="724ce977487ab3a215d4d2eb47d8dccd9f30013f">
+        <dex dex="/home/synerzip/Quiz_Final/Quiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-vision-8.3.0_b2525772a16da4d229693ba57da91bca438651e0/classes.dex" />
     </item>
     <item
-        jar="/home/synerzip/AndroidStudioProjects/Quiz2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/8.3.0/jars/classes.jar"
-        jumboMode="false"
+        jar="/home/synerzip/Quiz_Final/Quiz/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/8.3.0/jars/classes.jar"
+        jumboMode="true"
         revision="23.0.2"
-        sha1="6d9ed9a288364688e7fcf6704776284dac1eb42e">
-        <dex dex="/home/synerzip/AndroidStudioProjects/Quiz2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-location-8.3.0_d0b53c5266364a5086400137c1fad5ddaaf70beb/classes.dex" />
+        sha1="eb576427887e497cd958a475475f9206e38dc314">
+        <dex dex="/home/synerzip/Quiz_Final/Quiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-nearby-8.3.0_3dbda49078bbf1e4555ec458dca95f5e1734fe7a/classes.dex" />
     </item>
     <item
-        jar="/home/synerzip/AndroidStudioProjects/Quiz2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/8.3.0/jars/classes.jar"
-        jumboMode="false"
+        jar="/home/synerzip/Quiz_Final/Quiz/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
         revision="23.0.2"
-        sha1="58adcfbe2c8393765e84c5489d01bba6a5159eb2">
-        <dex dex="/home/synerzip/AndroidStudioProjects/Quiz2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appinvite-8.3.0_1cc0f70a28588f61aa4e0588ff3893ce55ea69f4/classes.dex" />
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/home/synerzip/Quiz_Final/Quiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.4.0_7afa1a61dd5030127bac50ef03fe1a890e7eb5f1/classes.dex" />
     </item>
     <item
-        jar="/home/synerzip/AndroidStudioProjects/Quiz2/app/libs/mail.jar"
-        jumboMode="false"
+        jar="/home/synerzip/Quiz_Final/Quiz/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="true"
         revision="23.0.2"
-        sha1="428e267abff0d10802ccde86b915da2c20471160">
-        <dex dex="/home/synerzip/AndroidStudioProjects/Quiz2/app/build/intermediates/transforms/dex/debug/folders/1000/2/mail_b569b85518fed1da576b2542f755cb9db2709a2a/classes.dex" />
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/home/synerzip/Quiz_Final/Quiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.4.0_2315076f1c9c69aa312bed89c5b8739dd40aa0d0/classes.dex" />
     </item>
     <item
-        jar="/home/synerzip/AndroidStudioProjects/Quiz2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/8.3.0/jars/classes.jar"
-        jumboMode="false"
+        jar="/home/synerzip/Quiz_Final/Quiz/app/libs/apache-httpcomponents-httpclient.jar"
+        jumboMode="true"
         revision="23.0.2"
-        sha1="71eda10e33212e44245524b5087366ff8d805825">
-        <dex dex="/home/synerzip/AndroidStudioProjects/Quiz2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gcm-8.3.0_5d9d89cb7cb72ce4d09020251b3529e9057cb635/classes.dex" />
+        sha1="13d1b1d8f318f5b0f95bc2901f378ef68982584f">
+        <dex dex="/home/synerzip/Quiz_Final/Quiz/app/build/intermediates/transforms/dex/debug/folders/1000/2/apache-httpcomponents-httpclient_9129fc5d5d586fb6a254614327880cf1d7dee2f1/classes.dex" />
+    </item>
+    <item
+        jar="/home/synerzip/Quiz_Final/Quiz/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/8.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="0a1897426566e408a5c20a3d931f77d89771d07f">
+        <dex dex="/home/synerzip/Quiz_Final/Quiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-drive-8.3.0_434ec5523582a9c3093d23015e7ce5c416c00535/classes.dex" />
     </item>
     <item
         jar="/home/synerzip/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
-        jumboMode="false"
+        jumboMode="true"
         revision="23.0.2"
         sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
-        <dex dex="/home/synerzip/AndroidStudioProjects/Quiz2/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.4.0_7387c5a6120300d5e61607e1adb7a7687ddd7961/classes.dex" />
+        <dex dex="/home/synerzip/Quiz_Final/Quiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.4.0_7387c5a6120300d5e61607e1adb7a7687ddd7961/classes.dex" />
     </item>
     <item
-        jar="/home/synerzip/AndroidStudioProjects/Quiz2/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.2.0/jars/classes.jar"
-        jumboMode="false"
+        jar="/home/synerzip/Quiz_Final/Quiz/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/8.3.0/jars/classes.jar"
+        jumboMode="true"
         revision="23.0.2"
-        sha1="dcf8c83c3dead00a6c4fe313e95f7aaca20dc641">
-        <dex dex="/home/synerzip/AndroidStudioProjects/Quiz2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-mediarouter-v7-22.2.0_7c2055494edf8049b2b90308d6d261813394fce1/classes.dex" />
+        sha1="0c3e81d3eb86b86d194b5cdb6a4de78203f6f7fd">
+        <dex dex="/home/synerzip/Quiz_Final/Quiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appindexing-8.3.0_a834396832a85d3f1ff86120829a9bf491b17951/classes.dex" />
+    </item>
+    <item
+        jar="/home/synerzip/Quiz_Final/Quiz/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="0632f06970823b7e3436f649bfa65b47035c91d0">
+        <dex dex="/home/synerzip/Quiz_Final/Quiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-22.2.0_b256a650d775093ca8a1f558907b645a453992c8/classes.dex" />
+    </item>
+    <item
+        jar="/home/synerzip/Quiz_Final/Quiz/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="/home/synerzip/Quiz_Final/Quiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.1.1_fcb442b2072c2f58e189247d05b193ffa7cca2f9/classes.dex" />
+    </item>
+    <item
+        jar="/home/synerzip/Quiz_Final/Quiz/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/8.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="cb4af597d079ffdc0984a3ec2c03cbf6a1b9f869">
+        <dex dex="/home/synerzip/Quiz_Final/Quiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-cast-8.3.0_2b42d2b00b32da931a41248957d73545cfe8628f/classes.dex" />
+    </item>
+    <item
+        jar="/home/synerzip/Quiz_Final/Quiz/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/8.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="fd76d95678a6b2b8a49bb8a9fb5bcef7aedb70e7">
+        <dex dex="/home/synerzip/Quiz_Final/Quiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-8.3.0_35fdfadaba541633bb16702e16e8be3c0f7c1119/classes.dex" />
+    </item>
+    <item
+        jar="/home/synerzip/Quiz_Final/Quiz/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-measurement/8.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="b000ecceb9877fefcdc7ab1959ff03df91551656">
+        <dex dex="/home/synerzip/Quiz_Final/Quiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-measurement-8.3.0_a41483ea63c0df448b335cb84ef3b5da125c798b/classes.dex" />
     </item>
     <item
         jar="/home/synerzip/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.6.2/f1bc476cc167b18e66c297df599b2377131a8947/gson-2.6.2.jar"
-        jumboMode="false"
+        jumboMode="true"
         revision="23.0.2"
         sha1="f1bc476cc167b18e66c297df599b2377131a8947">
-        <dex dex="/home/synerzip/AndroidStudioProjects/Quiz2/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.6.2_03a6b5acf816676ed0bc575f642c951487319ce6/classes.dex" />
-    </item>
-    <item
-        jar="/home/synerzip/AndroidStudioProjects/Quiz2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/8.3.0/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="fd76d95678a6b2b8a49bb8a9fb5bcef7aedb70e7">
-        <dex dex="/home/synerzip/AndroidStudioProjects/Quiz2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-8.3.0_2d482efcb80b778adc75b3fb80511e3cbfafd7df/classes.dex" />
-    </item>
-    <item
-        jar="/home/synerzip/AndroidStudioProjects/Quiz2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/8.3.0/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="af6ee25641df3142059c0828517aa7ee6eba08d6">
-        <dex dex="/home/synerzip/AndroidStudioProjects/Quiz2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-8.3.0_515c91cb66e60537afee0aa98d7acf76aad24aca/classes.dex" />
+        <dex dex="/home/synerzip/Quiz_Final/Quiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.6.2_03a6b5acf816676ed0bc575f642c951487319ce6/classes.dex" />
     </item>
 
 </items>

@@ -34,7 +34,7 @@
     <string name="quiz_over">Quiz Over!!!</string>
     <string name="c_programming_quiz">C Programming Quiz</string>
     <string name="java_programming_quiz">Java Programming Quiz</string>
-    <string name="submit_test">Show final Score</string>
+    <string name="submit_test">Submit</string>
     <string name="facebook_app_id">136962436736956</string>
 
     <string name="fb_login_protocol_scheme">fb136962436736956</string>
@@ -52,8 +52,8 @@
     <string name="body">Please Find Attachment for the marks of the candidates who appeared for the test.</string>
     <string name="app_password">ihoycpypdxzoefhg</string>
     <string name="app_mail">snehaltembare@gmail.com</string>
-    <string name="to_mail">snehal.tembare@synerzip.com</string>
-    <string name="file_path">/sdcard/QuizResult.csv</string>
+    <string name="to_mail">snehaltembare@gmail.com</string>
+    <string name="file_path">QuizResult.csv</string>
     <string name="file_name">Result.csv</string>
     <string name="attempted_test">You have attempted this test</string>
 
@@ -103,5 +103,6 @@
     <string name="network_not_available">Network not available</string>
     <string name="please_wait">Please wait...</string>
     <string name="network_available">Network available</string>
+    <string name="code">code</string>
 
 </resources>

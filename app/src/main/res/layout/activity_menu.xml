@@ -41,7 +41,7 @@
         android:layout_marginTop="@dimen/common_dimens_5"/>
     <Button
         android:id="@+id/button_submit_test"
-        android:layout_width="@dimen/submit_button_width"
+        android:layout_width="@dimen/common_dimens_120"
         android:layout_height="wrap_content"
         android:layout_below="@+id/listView"
         android:text="@string/submit_test"

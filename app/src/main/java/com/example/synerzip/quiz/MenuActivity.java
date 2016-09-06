@@ -25,6 +25,7 @@ import com.google.android.gms.common.api.ResultCallback;
 import com.google.android.gms.common.api.Status;
 import com.opencsv.CSVWriter;
 
+import java.io.File;
 import java.io.FileWriter;
 import java.io.IOException;
 import java.util.ArrayList;
@@ -87,7 +88,6 @@ public class MenuActivity extends FragmentActivity implements GoogleApiClient.On
             public void onItemClick(AdapterView<?> parent, View view, int position, long id) {
 
                 Intent intent = new Intent(MenuActivity.this, QuestionActivity.class);
-                ;
 
                 switch (position) {
                     case 0:
@@ -160,8 +160,8 @@ public class MenuActivity extends FragmentActivity implements GoogleApiClient.On
                     totalScore = totalMarks + totalScore;
                     editor.putInt("total", totalScore);
                     editor.commit();
-
-                    FileWriter fw = new FileWriter(getResources().getString(R.string.file_path), true);
+                    File file=new File(getFilesDir(),getResources().getString(R.string.file_path));
+                    FileWriter fw = new FileWriter(file, true);
 
                     CSVWriter writer = new CSVWriter(fw, CSVWriter.DEFAULT_SEPARATOR, CSVWriter.NO_QUOTE_CHARACTER);
                     writer.writeNext(new String[]{name, String.valueOf(totalScore)});
@@ -191,7 +191,7 @@ public class MenuActivity extends FragmentActivity implements GoogleApiClient.On
             m.set_body(getResources().getString(R.string.body));
 
             try {
-                m.addAttachment(getResources().getString(R.string.file_path), getResources().getString(R.string.file_name));
+                m.addAttachment(String.valueOf(getFilesDir().getAbsoluteFile()+"/"+getResources().getString(R.string.file_path)), getResources().getString(R.string.file_name));
                 m.send();
             } catch (Exception e) {
                 e.printStackTrace();

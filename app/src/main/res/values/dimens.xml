@@ -145,7 +145,8 @@
     <dimen name="common_dimens_20">20dp</dimen>
     <dimen name="common_dimens_30">30dp</dimen>
     <dimen name="common_dimens_80">80dp</dimen>
-
+    <dimen name="common_dimens_100">100dp</dimen>
+    <dimen name="common_dimens_120">120dp</dimen>
 
 
 </resources>

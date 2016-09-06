@@ -11,14 +11,14 @@
     android:background="@color/background_color_all"
     android:transitionName="@string/transition">
     <TextView
-    android:id="@+id/text_main_user_name"
-    android:layout_width="match_parent"
-    android:layout_height="wrap_content"
-    android:textSize="@dimen/user_name_text_size"
-    android:textColor="@color/user_name_color"
-    android:layout_marginTop="@dimen/gridview_spacing"
-    android:layout_marginLeft="@dimen/common_dimens_5"
-    android:textStyle="italic" />
+        android:id="@+id/text_main_user_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="@dimen/user_name_text_size"
+        android:textColor="@color/user_name_color"
+        android:layout_marginTop="@dimen/gridview_spacing"
+        android:layout_marginLeft="@dimen/common_dimens_5"
+        android:textStyle="italic" />
 
     <ListView
         android:id="@+id/listView"
@@ -40,7 +40,7 @@
 
     <Button
         android:id="@+id/button_submit_test"
-        android:layout_width="@dimen/tab_submit_button_width"
+        android:layout_width="@dimen/common_dimens_120"
         android:layout_height="wrap_content"
         android:layout_below="@+id/listView"
         android:text="@string/submit_test"
